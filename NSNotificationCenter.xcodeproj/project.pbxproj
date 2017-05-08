@@ -193,15 +193,18 @@
 				TargetAttributes = {
 					1AFD1B901EBF3CD100AE1EF3 = {
 						CreatedOnToolsVersion = 8.3.2;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					1AFD1BA41EBF3CD100AE1EF3 = {
 						CreatedOnToolsVersion = 8.3.2;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 1AFD1B901EBF3CD100AE1EF3;
 					};
 					1AFD1BAF1EBF3CD200AE1EF3 = {
 						CreatedOnToolsVersion = 8.3.2;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 1AFD1B901EBF3CD100AE1EF3;
 					};
@@ -505,6 +508,7 @@
 				1AFD1BBB1EBF3CD200AE1EF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AFD1BBC1EBF3CD200AE1EF3 /* Build configuration list for PBXNativeTarget "NSNotificationCenterTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				1AFD1BBE1EBF3CD200AE1EF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AFD1BBF1EBF3CD200AE1EF3 /* Build configuration list for PBXNativeTarget "NSNotificationCenterUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				1AFD1BC11EBF3CD200AE1EF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
